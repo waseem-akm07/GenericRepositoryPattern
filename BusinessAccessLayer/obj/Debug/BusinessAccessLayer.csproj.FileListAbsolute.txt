@@ -1,0 +1,14 @@
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.dll
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\BusinessAccessLayer.pdb
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.dll
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.pdb
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\DataAcessLayer.dll
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\EntityFramework.dll
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\DataAcessLayer.pdb
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\DataAcessLayer.dll.config
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\EntityFramework.xml
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csprojAssemblyReference.cache
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\obj\Debug\BusinessAccessLayer.csproj.CopyComplete
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\DataTransferObject.dll
+E:\Company_Task\GenericRepositoryPattern\BusinessAccessLayer\bin\Debug\DataTransferObject.pdb

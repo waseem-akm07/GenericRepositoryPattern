@@ -1,0 +1,13 @@
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\EntityFramework.dll
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\EntityFramework.xml
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CopyComplete
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\bin\Debug\DataAcessLayer.dll.config
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.Migrations.Initial.resources
+E:\Company_Task\GenericRepositoryPattern\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.GenerateResource.cache
